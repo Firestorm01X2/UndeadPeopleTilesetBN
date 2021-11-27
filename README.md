@@ -1,4 +1,10 @@
-## Work in progress. It will take some time. Keep updating tileset every day to see more overmap tiles.
+## Warning! Some tiles may be (temporary) missing since likely original author didn't update unpacked version of this repository before deleting.
+
+## Sorry for inconvenience but we have to start from something.
+
+## Look for https://github.com/Theawesomeboophis/UndeadPeopleTileset if you want all latest tiles specifically for DDA.
+
+## Work in progress.
 
 
 ![plugs](https://user-images.githubusercontent.com/37592026/128038582-1ac48b09-a41d-4fff-bd0e-091a8ac4c0f5.PNG)
@@ -8,8 +14,7 @@
 
 This is a tileset for Cataclysm: Bright Nights (and for Dark Days Ahead) based on the works by Xotto, Waldo and others. My goal is to make the most complete tileset for the game, with support for all mods out there.
 
-Warning! Some tiles may be missing due recovery process!
-Look for https://github.com/Theawesomeboophis/UndeadPeopleTileset if you want all tiles specifically for DDA.
+
 
 
 ## Prerequisites
