@@ -6,7 +6,11 @@
 
 ![alt text](https://i.imgur.com/BFQzWtC.png)
 
-This is a tileset for Cataclysm Dark Days Ahead (and for Bright Nights fork of this game) based on the works by Xotto, Waldo and others. My goal is to make the most complete tileset for the game, with support for all mods out there.
+This is a tileset for Cataclysm: Bright Nights (and for Dark Days Ahead) based on the works by Xotto, Waldo and others. My goal is to make the most complete tileset for the game, with support for all mods out there.
+
+Warning! Some tiles may be missing due recovery process!
+Look for https://github.com/Theawesomeboophis/UndeadPeopleTileset if you want all tiles specifically for DDA.
+
 
 ## Prerequisites
 
