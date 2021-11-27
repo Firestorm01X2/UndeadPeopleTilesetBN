@@ -2,7 +2,7 @@
 
 ## Sorry for inconvenience but we have to start from something.
 
-## Look for https://github.com/Theawesomeboophis/UndeadPeopleTileset if you want all latest tiles specifically for DDA.
+## Look for https://github.com/Theawesomeboophis/UndeadPeopleTileset or  https://github.com/Firestorm01X2/UndeadPeopleTileset if you want all latest tiles specifically for DDA.
 
 ## Work in progress.
 
